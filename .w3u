@@ -1,0 +1,78 @@
+{"name": "REPLEY TV",
+"image":"https://yourclubox.com/box/Logos/img1.png",
+"author": "Perú",
+"groups": [
+
+{"name": "PERU DEPORTES",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuk1isVo8Gvtk5hcIViRHR153PmOEDNqnM6A&usqp=CAU", 
+"stations": [
+
+{"name":"LIG4 1MAX+ SD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezzt89a_kLkcFESBnZXrMaMM3brb72LlJVg&usqp=CAU", 
+"url":"http://p2premium.club:8080/live/ALDETECHTORRES64SP/1023ALDETECHRT05/330756.ts"},
+
+{"name":"DIRECTV ", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezzt89a_kLkcFESBnZXrMaMM3brb72LlJVg&usqp=CAU", 
+"url":"http://premierchile.shop:8080/live/waltersilvagutierreztv/scmvnfjrfu3/317.ts"},
+
+{"name":"GOL PERU", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezzt89a_kLkcFESBnZXrMaMM3brb72LlJVg&usqp=CAU", 
+"url":"http://veotv.site:80/live/Emi12345/Emi12345/531766.ts"},
+
+{"name":"MOVISTAR + HD","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezzt89a_kLkcFESBnZXrMaMM3brb72LlJVg&usqp=CAU",
+"url":"http://iptvhogar.club:25461/live/Rodrigo_Oyarce/7437505538/39132.ts"}]},
+
+{"name": "PERU TDT",
+"image": "https://www.trecebits.com/wp-content/uploads/2024/02/logo-tdt-television.webp", 
+"stations": [
+
+{"name":"URANIO TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL"},
+
+{"name":"PANCTV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://panel.host-live.com:19360/80780/80780.m3u8?PlaylistM3UCL"},
+
+{"name":"ONDA DIGITAL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://v4.tustreaming.cl:443/ondadigitaltv/index.m3u8?PlaylistM3UCL"},
+
+{"name":"OVACION", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL"},
+
+{"name":"NATIVA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL"},
+
+{"name":"ANTARES TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL"},
+
+{"name":"CRTV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL"},
+
+{"name":"HECHISERA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL"},
+
+{"name":"GENIOS TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL"},
+
+{"name":"EXITOSA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8?PlaylistM3UCL"},
+
+{"name":"TELESELVA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL"},
+
+{"name":"TELECOLOR", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL"},
+
+{"name":"TV COSMO", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL"},
+
+{"name":"EMANUEL TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8?PlaylistM3UCL"},
+
+{"name":"VZ TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL"},
+
+{"name":"VIA TARATOPO TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL"},
+
+{"name":"VIA ALTO MAYO TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL"},
+
+{"name":"UNITEL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU",
+"url":"https://vdo.grupolimalive.com:3365/live/unitellive.m3u8?PlaylistM3UCL"}]}]}]}
