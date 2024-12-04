@@ -23,14 +23,11 @@
 "image": "https://www.trecebits.com/wp-content/uploads/2024/02/logo-tdt-television.webp", 
 "stations": [
 
+{"name":"LATINA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8"},
+
 {"name":"URANIO TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
 "url":"https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL"},
-
-{"name":"ATV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
-"url": "https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL"},
-
-{"name":"ATV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
-https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?uid=3871129
 
 {"name":"PANCTV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
 "url":"https://panel.host-live.com:19360/80780/80780.m3u8?PlaylistM3UCL"},
@@ -79,6 +76,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?uid=3871129
 
 {"name":"VIA ALTO MAYO TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
 "url":"https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL"},
+
+{"name":"AMERICA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU", 
+"url":"https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?uid=3871129"},
 
 {"name":"UNITEL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayM9mGTXXLAbQMA6jeLM0DwjMYuwPtymTg&usqp=CAU",
 "url":"https://vdo.grupolimalive.com:3365/live/unitellive.m3u8?PlaylistM3UCL"}]}]}]}
